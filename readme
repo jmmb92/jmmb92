@@ -1,7 +1,5 @@
-echo "# jmmb92" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/jmmb92/jmmb92.git
-git push -u origin main
+👋 Olá, o meu nome é João Brito.
+👀 Sou graduado como Atuário mas estou migrando para T.I, com foco em análise de dados através do Mestrado em Ciências Computacionais no PPG - UERJ.
+🌱 Estou estudando Python e R mas tenho conhecimentos em Power BI, C, C#, estruturas de dados, algoritmos, álgebra linear e bioinformática. Tenho interesse em aprender mais para me tormar em um profissional mais completo.
+💞️ Estou procurando projetos para poder participar, expandir meu portfólio, adquirir experiência e auxiliar outras pessoas. 
+📫 Meu email é joaomenezes01@gmail.com ou joaombrito@id.uff.br
